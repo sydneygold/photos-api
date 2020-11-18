@@ -1,0 +1,2 @@
+class Monochrome < ApplicationRecord
+end
